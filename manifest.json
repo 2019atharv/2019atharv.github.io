@@ -1,0 +1,27 @@
+{
+    "name": "Nike PWA",
+    "short_name": "Nike PWA",
+    "start_url": "/",
+    "scope": ".",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FF6600",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "img/nike.jpeg",
+            "sizes": "144x144",
+            "type": "image/jpeg",
+            "purpose": "any"
+            
+        },
+        {
+            "src": "img/nike512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+            
+        }
+    ]
+
+
+}
